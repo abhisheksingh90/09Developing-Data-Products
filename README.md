@@ -1,7 +1,14 @@
-# Peer-graded-assignment-Rmarkdown-presentation-Plotly
+# Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch
 
-Create a web page presentation using R Markdown that features a plot created with Plotly.
-Host your webpage on either GitHub Pages, RPubs, or NeoCities. 
-Your webpage must contain the date that you created the document, and it must contain a plot created with Plotly. 
-We would love to see you show off your creativity!
 
+This repository has the ui.R and server.R files for the first part of the Developing
+Data Products Course Project. The peer assessed assignment has two parts.
+First, we need to create a Shiny application and deploy it on Rstudio's
+servers. Second, we should use Slidify or Rstudio Presenter to prepare a
+reproducible pitch presentation about the application.
+
+The app developed for the first part of the assignment is avalilable at: https://1matyusi.shinyapps.io/appproject/
+
+The presentation is available at: http://rpubs.com/MatyusI/286750 
+
+Files for the presentation are avalilable on the GitHub: https://github.com/MatyusI/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch/tree/master
